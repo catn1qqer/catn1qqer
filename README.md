@@ -5,14 +5,17 @@
 
 ## PROJECTS | DỰ ÁN
  * thuy's v4 kit
- * thuy's mirage chaser
 
 ### Cách dùng | Usage
 Paste this line of loadstring to your executor, this works on Krnl, ScriptWare, Synapse X and more!
 
- * thuy's v4 kit : 
+ * thuy's race v4 (thuy's v4 kit) (wip) : 
 `
-not released.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuy2y2c/thuy-utilities/main/Rv4kit1.lua"))()
+`
+ * thuy's mirage chaser (thuy's v4 kit) (wip) : 
+`
+on progress
 `
 
 ## CONTRIBUTE | ĐÓNG GÓP, GIÚP ĐỠ

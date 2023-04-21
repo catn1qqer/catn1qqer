@@ -1,9 +1,7 @@
 # Thuy's Utilities
-
 ***" con cẩu biết làm hack cơ đấy. "*** - thuy's friend
 
 [![Official Discord](https://img.shields.io/static/v1.svg?label=OFFICIAL&message=DISCORD&color=blue&logo=discord&style=for-the-badge)](https://discord.gg/JncgYB9PGz) 
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 ## PROJECTS | DỰ ÁN
  * thuy's v4 kit

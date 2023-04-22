@@ -11,7 +11,7 @@ Paste this line of loadstring to your executor, this works on Krnl, ScriptWare, 
 
  * thuy's race v4 (thuy's v4 kit) (wip) : 
 `
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuy2y2c/thuy-utilities/main/Rv4kit1.lua"))()
+on progress
 `
  * thuy's mirage chaser (thuy's v4 kit) (wip) : 
 `

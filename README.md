@@ -15,5 +15,5 @@ Hiện tại script chưa có Autofarm, devil fruits hay gì hết.
 Mỗi bản cập nhật có cái tên khác nhau như <randomstring><codename>. Bạn có thể kiểm tra codename hiện tại ở phần Releases
 
 ```lua
-hi
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/yzVhXAzlbyFearful.lua"))()
 ```

@@ -17,10 +17,18 @@
 
 Hiện tại script chưa có Autofarm, devil fruits hay gì hết.
 
-## Usage 
+## Usage (Main)
 Để sử dụng catn1qqer, hãy nhập cái này vào executor mà script hỗ trợ (ví dụ : Krnl, Synapse, ScriptWare)
-Mỗi bản cập nhật có cái tên khác nhau như <randomstring><codename>. Bạn có thể kiểm tra codename hiện tại ở phần Releases
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/2jU72nxZgrFearfulFix.lua"))()
+```
+
+## Usage (Mirage Notifier)
+Để sử dụng catn1qqer, hãy nhập cái này vào executor mà script hỗ trợ (ví dụ : Krnl, Synapse, ScriptWare)
+
+Truy cập vào Link bên dưới, copy full raw rồi cho vào executor. Chỉnh một chút ở config và lưu file cho vào autoexec.
++ Khuyên dùng Synapse và Roblox Account Manager tránh crash, nên dùng nhiều tải khoản.
+```
+https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/miragenotifier.lua
 ```

@@ -1,4 +1,4 @@
-# catn1qqer (currently closed source)
+# catn1qqer (some are open source, some not.)
 ***its like a pile of shit, but for a roblox one piece game.***
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1094257958117974096/1101865390537195600/image.png" style="width: 95%">
@@ -8,8 +8,12 @@
 
 ## Tính năng hiện tại
 
+[Main]
 - Mirage Island, Full Moon.
 - Temple of Time, Race V4
+
+[Mirage Notifier]
+- Tìm Mirage, báo qua Webhook.
 
 Hiện tại script chưa có Autofarm, devil fruits hay gì hết.
 

@@ -18,7 +18,7 @@ getgenv().Settings = {
 
 -- // Performance // -- 
 
-local PERFSettings = CFSettings["Performance"]
+local PERFSettings = Settings["Performance"]
 
 setfpscap(PERFSettings["FPS Cap"] or 30)
 game.RunService:Set3dRenderingEnabled(not PERFSettings["Disable Rendering"])

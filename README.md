@@ -12,8 +12,8 @@
 - Mirage Island, Full Moon.
 - Temple of Time, Race V4
 
-[Mirage Notifier]
-- Tìm Mirage, báo qua Webhook.
+[Full Moon Notifier]
+- Tìm Full Moon, báo qua Webhook.
 
 Hiện tại script chưa có Autofarm, devil fruits hay gì hết.
 
@@ -24,11 +24,9 @@ Hiện tại script chưa có Autofarm, devil fruits hay gì hết.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/2jU72nxZgrFearfulFix.lua"))()
 ```
 
-## Usage (Mirage Notifier)
+## Usage (Full Moon Notifier)
 Để sử dụng catn1qqer, hãy nhập cái này vào executor mà script hỗ trợ (ví dụ : Krnl, Synapse, ScriptWare)
 
 Truy cập vào Link bên dưới, copy full raw rồi cho vào executor. Chỉnh một chút ở config và lưu file cho vào autoexec.
-+ Khuyên dùng Synapse và Roblox Account Manager tránh crash, nên dùng nhiều tải khoản.
-```
-https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/miragenotifier.lua
-```
++ Khuyên dùng Synapse và Roblox Account Manager tránh crash, nên dùng nhiều tải khoản để tăng tỉ lệ tìm thấy.
+[fullmoonnotifier.lua](https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/tools/fullmoonnotifier.lua)

@@ -54,8 +54,6 @@ setfpscap(ClientSettings["Fps Lock"])
 
 -- // Config.Discord // --
 
-repeat task.wait() until game:IsLoaded()
-
 local Settings = {}
 local HttpService = game:GetService("HttpService")
 

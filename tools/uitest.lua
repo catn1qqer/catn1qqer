@@ -1,4 +1,8 @@
-repeat task.wait() until game:IsLoaded()
+for i,v in next, game.Players.LocalPlayer.PlayerGui:GetChildren() do -- Deletes the current Blox Fruits UI
+    if v:IsA'ScreenGui' then
+    v:Destroy()
+    end
+end
 
 ---- // GUI // ----
 

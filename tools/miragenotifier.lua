@@ -26,7 +26,7 @@ getgenv().Config = {
 
 repeat task.wait() until game:IsLoaded()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuy2y2c/catn1qqer/main/tools/uitest.lua"))() -- GET THE cutest ui 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/catn1qqer/catn1qqer/main/tools/uitest.lua"))() -- GET THE cutest ui 
 
 -- // Console // --
 

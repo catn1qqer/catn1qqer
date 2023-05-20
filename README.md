@@ -20,11 +20,11 @@
 
 Hiện tại Main script chưa có Autofarm, devil fruits hay gì hết.
 
-## Usage (Main) (Update soon)
+## Usage (Main)
 Để sử dụng catn1qqer, hãy nhập cái này vào executor mà script hỗ trợ (ví dụ : Krnl, Synapse, ScriptWare)
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/catn1qqer/catn1qqer/main/2jU72nxZgrFearfulFix.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/catn1qqer/catn1qqer/main/main.lua"))()
 ```
 
 ## Usage (Full Moon Notifier)

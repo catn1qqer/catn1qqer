@@ -700,22 +700,22 @@ local RedeemBone = ShopTab:AddButton({
     end,
 })
 
-local BuyChipStart = DungeonsTab:AddToggle({
+local AutoRedeemBone = ShopTab:AddToggle({
     Name = "Auto Redeem Bone",
     CurrentValue = false,
     Flag = "AutoRedeemBone", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
     Callback = function(value)
-        _G.Auto_Random = value
-    })
+        _G.AutoRedeemBone = value
+    end,
+  })
 
     spawn(function()
-        while wait(3) do
+        while wait(0.2) do
             pcall(function()
-                if _G.Auto_Random then
-                    repeat wait(.1)
-                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Bones","Check")
-                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Bones","Buy",1,1)
-                    end
+                if _G.AutoRedeemBone then
+                     	game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Bones","Check")
+                     	game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Bones","Buy",1,1)
+                     end
                 end)
             end
         end)   

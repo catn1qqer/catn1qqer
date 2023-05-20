@@ -1,4 +1,4 @@
-# catn1qqer (some are open source, some not.)
+# catn1qqer (open-source)
 
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1094257958117974096/1101865390537195600/image.png" style="width: 95%">
